@@ -2,7 +2,7 @@
 
 This project is a dynamic and interactive **Retail Sales Dashboard** built using **Power BI**. It leverages two core data tables — `Orders` and `Details` — to visualize and analyze sales performance across product categories, regions, time periods, and payment methods.
 
----
+
 
 ## 📁 Data Sources
 
@@ -14,7 +14,6 @@ This project is a dynamic and interactive **Retail Sales Dashboard** built using
 
 The two tables are linked via **Order ID** using relationships in Power BI.
 
----
 
 ## 📊 Dashboard Features
 
@@ -25,7 +24,7 @@ The two tables are linked via **Order ID** using relationships in Power BI.
 - 🗺️ **State-wise & City-wise Sales Performance**
 - 🔍 **Interactive Filters**: Category, State, City, Month, Payment Mode
 
----
+
 
 ## 📌 Key Insights
 
@@ -34,7 +33,6 @@ The two tables are linked via **Order ID** using relationships in Power BI.
 - Analyzed customer purchasing patterns by payment mode
 - Detected monthly fluctuations in total sales and profit
 
----
 
 ## 🧰 Tools & Techniques
 
